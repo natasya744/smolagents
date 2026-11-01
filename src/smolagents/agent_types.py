@@ -22,7 +22,7 @@ from typing import Any
 
 import PIL.Image
 import requests
-
+from datetime import timedelta
 from .utils import _is_package_available
 
 
